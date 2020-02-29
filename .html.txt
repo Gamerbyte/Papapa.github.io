@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>
+Знакомство с HTML ТИМОФЕЙ
+</title>
+</head>
+<body bgcolor=#D3D3D3>
+<h1 align="center">Коротко о себе</h1>
+<h3 align="right">Пришел, увидел, победил</h3>
+<p>Гаврилов Тимофей Максимович группа П-38</p>
+Я увлекаюсь спортом. Люблю сходить в кино. Веду активный образ жизни. Читаю новости на сайте яндекс.
+<p><font color="blue" face = "Times New Roman" size="5"><font color="green">И</font>граю в хоккей</font></p>
+<font color="red"><center><p><i><b>Играю в футбол</b></i></p></center></font>
+<center><p><em>Играю в воллейбол</em></p></center>
+<center><p><b>Играю в лапту</b></p></center>
+<center><p><u>Играю в баскетбол</u></p></center>
